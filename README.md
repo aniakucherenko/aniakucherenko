@@ -1,4 +1,4 @@
-<h1 align="center">Hello,World! 👋, I'm Anna 👩‍💻</h1>
+<h1 align="center">Hello,World! 👋 I'm Anna 👩‍💻</h1>
 <h3 align="center">Glad to see you here 👀</h3>
 
  💥 I am passionate Full-Stack student-developer **from Ukraine 💙💛**
