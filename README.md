@@ -1,7 +1,7 @@
 <h1 align="center">Hello,World! 👋 I'm Anna 👩‍💻</h1>
 <h3 align="center">Glad to see you here 👀</h3>
 
- 💥 I am Full-Stack student-developer **from Ukraine 💙💛**
+ 💥 I am Front-end student-developer **from Ukraine 💙💛**
 
  💬 I like to learn **something new**
 
